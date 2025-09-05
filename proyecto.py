@@ -1,1 +1,8 @@
 print ("Iniciando Proyecto")
+print ("GRUPO: 4")
+print ("Integrantes")
+print ("Rodrigo Moises Ismael Portugal Davila")
+print ("Catherine Lucero Ramos Vasquez")
+print ("Joaquin David Sandoval Garcia")
+print ("Jesus Alberto Yovera Vergara")
+print ("Adriano Stefano Angeles Miñano")
