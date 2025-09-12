@@ -35,6 +35,7 @@ print("tercer boton ")
 #		    txtPrecio.setText("");
 #		    txtStock.setText("");
 #		    cdCategoría.setSelectedIndex(0);  
-#		    txtCodigo.requestFocus();       
+#		    txtCodigo.requestFocus();  
+#     
 print ("cuarto boton")
 #System.exit(0);
