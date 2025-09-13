@@ -18,4 +18,13 @@ print ("Primer Boton(Agregar)")
 #		              + ", Precio: $" + precio 
 #		              + ", Stock: " + stock + "\n");
 #		    txtS.append(">> Producto agregado correctamente\n\n");")
+#protected void do_btnNewButton_1_actionPerformed(ActionEvent e) {
+#	    String codigoBuscado = txtCodigo.getText();
+#	    String texto = txtS.getText(); 
+#	    if (texto.contains(codigoBuscado)) {
+#	        txtS.append(">> Producto con código " + codigoBuscado + " encontrado\n");
+#	    } else {
+#	        txtS.append(">> Producto con código " + codigoBuscado + " no encontrado\n");
+#	    }	
+#	}      
 
