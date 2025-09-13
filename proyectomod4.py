@@ -6,7 +6,7 @@ print ("Catherine Lucero Ramos Vasquez")
 print ("Joaquin David Sandoval Garcia")
 print ("Jesus Alberto Yovera Vergara")
 print ("Adriano Stefano Angeles Miñano")
-print ("Primer Boton")
+print ("Primer Boton(Agregar)")
 #" String codigo = txtCodigo.getText()
 #		    String nombre = txtNombre.getText();
 #		    String categoria = cdCategoría.getSelectedItem().toString();
