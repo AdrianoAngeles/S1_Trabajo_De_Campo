@@ -27,4 +27,14 @@ print ("Primer Boton(Agregar)")
 #	        txtS.append(">> Producto con código " + codigoBuscado + " no encontrado\n");
 #	    }	
 #	}      
+print("tercer boton ")
+#protected void do_limpiar_actionPerformed(ActionEvent e) {
+#		  txtCodigo.setText("");
+#		    txtNombre.setText("");
+#		    txtPrecio.setText("");
+#		    txtStock.setText("");
+#		    cdCategoría.setSelectedIndex(0);  
+#		    txtCodigo.requestFocus();   
+print ("cuarto boton")
+#System.exit(0);
 
